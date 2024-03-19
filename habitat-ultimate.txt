@@ -1,0 +1,600 @@
+dwelling
+residence
+abode
+domicile
+home
+habitation
+dwelling place
+mansion
+manor
+estate
+cottage
+bungalow
+cabin
+villa
+house
+residence
+abyss
+cavern
+chasm
+crevice
+grotto
+hollow
+passage
+pit
+subterrane
+tunnel
+administration center
+city hall
+courthouse
+cultural center
+government office
+library
+municipal mansion
+parliament palace
+public plaza
+town square
+urban institute
+artisan's workshop
+forge
+laboratory
+studio
+workshop
+crafting hall
+atelier
+foundry
+smithy
+alchemy lab
+enchanting chamber
+tinkering station
+sculptor's studio
+pottery studio
+carpenter's workshop
+weaver's loom
+jeweler's bench
+glassblower's studio
+loom
+textile workshop
+leatherworker's shop
+metalworking shop
+woodworking shop
+potion brewery
+candle maker's studio
+papermaking studio
+bookbinder's workshop
+culinary kitchen
+confectionery
+brewery
+distillery
+winery
+tailor's workshop
+armory
+ammunition workshop
+bowyer's shop
+arrow fletchery
+blacksmith's forge
+armor crafting station
+weapon crafting station
+engraving studio
+calligraphy studio
+pottery kiln
+glass furnace
+depression
+hollow
+cavity
+pit
+indentation
+basin
+bowl
+concavity
+dent
+pothole
+hole
+well
+trench
+trough
+gap
+void
+crater
+caldera
+abyss
+chasm
+ravine
+gorge
+cleft
+fissure
+crevice
+rift
+split
+crack
+dunes
+oasis
+aridness
+wasteland
+barrens
+mirage
+wilderness
+sands
+dryness
+solitude
+reverie
+fantasy
+utopia
+phantasmagoria
+mirage
+generator
+powerhouse
+reactor
+turbine
+energy center
+power station
+electrical grid
+solar farm
+wind farm
+geothermal plant
+coruscant
+middle-earth
+hogwarts
+rivendell
+gotham city
+metropolis
+wakanda
+mordor
+oz
+gondor
+diagon alley
+arrakis
+riviera
+rapture
+columbia
+arboretum
+copse
+grove
+jungle
+orchard
+thicket
+timberland
+woodland
+abyssal
+gehennan
+hades
+hades'
+tartarean
+stygian
+netherworld
+infernal
+abyss
+chasm
+pit
+brimstone
+lava
+underworld
+cavern
+abyssal plain
+inferno
+purgatory
+fiery pit
+sulfurous expanse
+view
+scene
+stretch
+outlook
+prospect
+panorama
+landscape
+point
+horizon
+distance
+expanse
+stretch
+perspective
+library
+academy
+school
+university
+study hall
+observatory
+research institute
+laboratory
+lecture hall
+reading room
+scholar's chamber
+educational center
+training facility
+scriptorium
+archive
+knowledge repository
+meditation retreat
+philosopher's enclave
+think tank
+wisdom keep
+oracle's chamber
+astronomical observatory
+alchemy study
+magical academy
+botanical garden
+historical archive
+language school
+music academy
+art studio
+coding dojo
+technology institute
+innovation hub
+neuroscience lab
+mathematics center
+philosophy forum
+debating society
+cultural center
+heritage museum
+virtual reality learning center
+arkham
+dunwich
+innsmouth
+miskatonic university
+r'lyeh
+shadow over innsmouth
+yuggoth
+plateaus of leng
+shub-niggurath
+the dreamlands
+the underdark
+cathedral
+castle
+citadel
+grand palace
+great hall
+mansion
+palace
+temple
+tower
+armory
+barracks
+base
+command center
+fortress
+garrison
+naval base
+outpost
+training ground
+war room
+dreamscape
+nightmarescape
+thoughtscape
+memoryscape
+emotionscape
+imaginingscape
+subconscious
+consciousness
+illusionscape
+realms of the mind
+introspectionscape
+the nocturnal academy
+the mugg memorial library
+the great forest of zamonia
+the city of atlantis
+the un-forrest
+the enchanted dominion
+wolperting
+hel
+gourmet isles
+skullop
+bookholm
+the catacombs of dreaming books
+the great library
+the chamber of supernostalgics
+shadowhouse
+malaisea
+malaiseaberg
+chalcedony
+crat
+blast furnace square
+bookholm
+old ab's bookstore
+the book eaters' catacomb
+the castle of dreaming books
+lindworm castle
+bookholm
+bookholm station
+alp
+elevation
+mount
+peak
+summit
+tor
+upland
+zenith
+bastion
+celestial archipelago
+cliff
+cloud
+mountain
+overlook
+peak
+plateau
+promontory
+spire
+summit
+terrace
+treetop canopy
+zenith
+elysian fields
+neverland
+paradisiacal
+paradiso
+utopia
+shangri-la
+eden
+celestial archipelago
+eden
+elysium
+arcadia
+nirvana
+shangri-la
+heavenly realm
+euphoric landscape
+paradise
+access
+aperture
+avenue
+breach
+connection
+doorway
+door
+egress
+entrance
+exit
+gap
+gateway
+gate
+hatch
+hole
+ingress
+link
+opening
+orifice
+passage
+portal
+threshold
+vent
+way
+cellblock
+dungeon
+gaol
+jail
+penitentiary
+stockade
+area
+arena
+cosmos
+demesne
+dimension
+domain
+dominion
+empire
+environment
+expanse
+field
+habitat
+jurisdiction
+kingdom
+land
+orbit
+plane
+precinct
+province
+realm
+region
+sector
+sphere
+terrain
+territory
+universe
+world
+zone
+spa
+retreat
+sanctuary
+atlantis
+valhalla
+shangri-la
+el dorado
+neverland
+narnia
+asgard
+mount olympus
+minas tirith
+thebes
+tír na nóg
+king's landing
+winterfell
+themyscira
+__constructions/rooms/*/*__
+__constructions/types/*/*__
+bastion
+castle
+citadel
+court
+fortress
+keep
+palace
+stronghold
+throne room
+haven
+refuge
+asylum
+shelter
+hideaway
+safe haven
+retreat
+oasis
+sanctum
+peaceful place
+secure spot
+solace
+tranquility
+space station
+orbital platform
+lunar base
+asteroid colony
+starship
+interstellar gateway
+space elevator
+terraforming station
+deep space outpost
+habitation ring
+nebula
+galaxy
+starfield
+asteroid_belt
+celestial_body
+cosmic_void
+comet
+black_hole
+wormhole
+supernova
+ambiance
+atmosphere
+backdrop
+conditions
+context
+domain
+ecosystem
+elements
+environment
+habitat
+landscape
+locale
+milieu
+neighborhood
+precinct
+realm
+scene
+setting
+situation
+sphere
+surroundings
+terrain
+vicinity
+bayou
+bog
+fen
+marsh
+morass
+mire
+quagmire
+slough
+sump
+wetland
+contamination
+hazard
+peril
+poison
+pollution
+risk
+threat
+agora
+bazaar
+emporium
+exchange
+fair
+market
+marketplace
+mart
+plaza
+square
+trading post
+auction hall
+barter square
+commerce corner
+currency court
+exchange enclave
+market square
+merchant meadow
+trade territory
+catacombs
+cavern
+subterranean city
+cave system
+underground river
+bunker
+mining tunnel
+secret lair
+hidden chamber
+magma chamber
+underworld
+buried ruins
+tunnel network
+sewer system
+abyssal depths
+chasm
+abyss
+vault
+crypt
+dungeon
+subway station
+mole people's enclave
+subterranean reservoir
+magma forge
+abandoned mine
+underground market
+secret passage
+covert hideout
+resistance headquarters
+abyssal
+bank
+beach
+beachfront
+brink
+coast
+coastal
+coastland
+deep
+littoral
+marine
+oceanic
+open ocean
+open water
+reef
+riverbank
+sandbar
+seabed
+seafloor
+seafront
+seashore
+seaside
+shore
+shoreline
+strand
+submerged
+subaquatic
+subterranean
+tidal wave
+underground
+underbelly
+undercurrent
+undergrowth
+underpass
+underside
+undershadow
+undersurface
+underwater
+undersea
+undertow
+verge
+waterfront
+brook
+cove
+estuary
+fjord
+gulf
+lake
+lagoon
+pond
+reservoir
+river
+sea
+strait
+stream
+tributary
+waterfall
+waterway
